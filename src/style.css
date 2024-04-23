@@ -615,7 +615,7 @@ background-color: #0c0513;    background-position: top center;
     background-image: var(--section-background-color) !important;
     background-size: cover;
     color: white !important;
-    height: 420vh;
+    height: 320vh;
   }
   
   .resume {

@@ -29,6 +29,7 @@ function Home() {
                 <Type />
               </div>
             </Col>
+           
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
@@ -39,9 +40,12 @@ function Home() {
               />
             </Col>
           </Row>
+          <button className="hireMeBtn">Hire me<a href="https://github.com/lakshmivenkateswara2356"/> </button>
         </Container>
       </Container>
+      
       <Home2 />
+      
     </section>
   );
 }

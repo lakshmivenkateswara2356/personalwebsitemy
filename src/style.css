@@ -316,6 +316,10 @@ background-color: #0c0513;    background-position: top center;
       padding-bottom: 2em !important;
     }
   }
+
+  .about-section {
+    background-color: #0c0513;
+  }
   
   .home-about-section {
     position: relative;
@@ -449,7 +453,7 @@ background-color: #0c0513;    background-position: top center;
     position: relative !important;
     padding-top: 150px !important;
     padding-bottom: 30px !important;
-    
+    background-color:#0c0513;
     background-image: url("https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg");
   }
   
@@ -776,4 +780,6 @@ background-color: #0c0513;    background-position: top center;
   color: white;
  }
 
- 
+ .img-fluid {
+  border-radius: 120px;
+ }

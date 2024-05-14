@@ -81,10 +81,7 @@ function Techstack() {
       <p className="Fonticn">SQLITE</p>
       <SiSqlite />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-      <p className="Fonticn">Python</p>
-        <DiJava />
-      </Col>
+      
     </Row>
   );
 }

@@ -619,7 +619,7 @@ background-color: #f7f7f8;    background-position: top center;
     padding-bottom: 30px !important;
     background-image: var(--section-background-color) !important;
     background-size: cover;
-    color: white !important;
+    color: rgb(10, 9, 9) !important;
     height: 320vh;
   }
   

@@ -40,7 +40,8 @@ function Home() {
               />
             </Col>
           </Row>
-          <a href="mailto:lakshmivenkateswarapunnam@gmail.com" className="hireMeBtn"> <button >Hire me</button> </a> 
+          
+          <a href="mailto:lakshmivenkateswarapunnam@gmail.com" className="hireMeBtn"> <button className="hireMeBtn" >Hire me</button> </a> 
         </Container>
       </Container>
       

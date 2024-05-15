@@ -160,7 +160,7 @@ html {
   }
   
   .navbar-nav .nav-link {
-    color: white !important;
+    color: rgb(6, 0, 0) !important;
     padding-right: 1rem !important;
     padding-left: 1rem !important;
   }
@@ -257,7 +257,7 @@ html {
   .home-section {
     position: relative;
     z-index: -1;
-background-color: #0c0513;    background-position: top center;
+background-color: #f7f7f8;    background-position: top center;
     background-repeat: no-repeat;
     padding-bottom: 30px !important;
     padding-top: 30px !important;
@@ -266,7 +266,7 @@ background-color: #0c0513;    background-position: top center;
   
   .home-content {
     padding: 9rem 0 2rem !important;
-    color: whitesmoke;
+    color: rgb(8, 2, 2);
     text-align: left;
   }
   
@@ -325,11 +325,11 @@ background-color: #0c0513;    background-position: top center;
     position: relative;
     padding-bottom: 70px !important;
     padding-top: 70px !important;
-    background-color: #0c0513;
+    background-color: #f5f5f6;
   }
   
   .home-about-description {
-    color: white !important;
+    color: rgb(11, 1, 1) !important;
     padding-top: 100px !important;
     padding-bottom: 20px !important;
     text-align: center;
@@ -344,7 +344,7 @@ background-color: #0c0513;    background-position: top center;
   .home-about-social {
     text-align: center !important;
     padding-top: 25px;
-    color: white !important;
+    color: rgb(4, 0, 0) !important;
   }
   
   .home-about-social-links {
@@ -363,7 +363,8 @@ background-color: #0c0513;    background-position: top center;
     text-align: center !important;
     font-size: 1.2em !important;
     line-height: 2em !important;
-    background: rgba(255, 255, 255, 0.972) !important;
+    background: rgba(249, 247, 247, 0.972) !important;
+    
     border-radius: 50% !important;
     transition: 0.5s !important;
   }
@@ -376,7 +377,7 @@ background-color: #0c0513;    background-position: top center;
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background: #68187a;
+    background: #eae8eb;
     transition: 0.5s;
     transform: scale(0.9);
     z-index: -1;
@@ -384,7 +385,7 @@ background-color: #0c0513;    background-position: top center;
   
   .home-social-icons:hover::before {
     transform: scale(1.1);
-    box-shadow: 0 0 15px #801f95;
+    box-shadow: 0 0 15px #e6e2e6;
   }
   
   .home-social-icons:hover {
@@ -453,8 +454,8 @@ background-color: #0c0513;    background-position: top center;
     position: relative !important;
     padding-top: 150px !important;
     padding-bottom: 30px !important;
-    background-color:#0c0513;
-    background-image: url("https://img.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg");
+    background-color:#faf9fa;
+   
   }
   
   .project-card {
@@ -467,7 +468,7 @@ background-color: #0c0513;    background-position: top center;
   
   .project-card-view {
     box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
-    color: white !important;
+    color: rgb(12, 11, 11) !important;
     background-color: transparent !important;
     opacity: 0.9 !important;
     transition: all 0.5s ease 0s !important;
@@ -538,7 +539,7 @@ background-color: #0c0513;    background-position: top center;
     box-shadow: none !important;
   }
   .project-heading {
-    color: white !important;
+    color: rgb(7, 7, 7) !important;
     font-size: 2.3em !important;
     font-weight: 500 !important;
     padding-top: 10px !important;
@@ -552,8 +553,8 @@ background-color: #0c0513;    background-position: top center;
     position: relative !important;
     padding-top: 150px !important;
     padding-bottom: 30px !important;
-    background-image: url("https://img.freepik.com/free-photo/dark-geometric-background-with-copy-space_24972-1816.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1713744000&semt=ais");
-    color: white !important;
+    background-color: #fefdfe;
+    color: rgb(5, 5, 5) !important;
     background-size: cover;
   }
   
@@ -593,7 +594,7 @@ background-color: #0c0513;    background-position: top center;
   
   .quote-card-view {
     border: none !important;
-    color: white !important;
+    color: rgb(4, 0, 0) !important;
     background-color: transparent !important;
   }
   
